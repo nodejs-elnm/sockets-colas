@@ -1,4 +1,4 @@
-# Aplicaión de cola
+# Aplicación de cola
 
 1. Asignar Tickets
 1. Leer Tickets
